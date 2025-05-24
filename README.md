@@ -1,7 +1,3 @@
-Here’s a clean, professional, and well-structured rewrite of your GitHub README for your **College Enterprise Resource Planner** project:
-
----
-
 # 🎓 College Enterprise Resource Planner (ERP)
 
 A full-featured **College ERP System** developed using **Python** and the **Django Framework**. This project was created by me and my team as part of our academic curriculum at **SIGCE**. It aims to streamline the management of academic and administrative activities for colleges.
@@ -165,6 +161,4 @@ If you find this project helpful:
 
 This project is for educational purposes. Please contact me for commercial use or contributions.
 
----
 
-Let me know if you’d like a badge section (e.g., build status, Python version, license), screenshots, or demo GIFs added!
