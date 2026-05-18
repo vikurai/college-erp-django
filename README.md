@@ -1,8 +1,8 @@
 # 🎓 College Enterprise Resource Planner (ERP)
 
-A full-featured **College ERP System** developed using **Python** and the **Django Framework**. This project was created by me and my team as part of our academic curriculum at **SIGCE**. It aims to streamline the management of academic and administrative activities for colleges.
+A full-featured **College ERP System** developed using **Python** and the **Django Framework**. This project was created by me and my team as part of our academic curriculum at **MUIT**. It aims to streamline the management of academic and administrative activities for colleges.
 
-🔗 **Live Demo**: [SIGCE ERP v1.1.0](https://syncx.pythonanywhere.com)
+
 
 ---
 
